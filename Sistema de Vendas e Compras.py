@@ -1,3 +1,6 @@
+
+#|Criar um cadastro de usuário e colocar em um banco de dados para salvar o histórico de vendas de cada cliente para posterior análise de dados de valor gasto mensal, forma de pagamento e periocidade de compra!
+
 lista = []
 tot_gasto = 0
 while True:
