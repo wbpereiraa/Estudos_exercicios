@@ -4,6 +4,7 @@ import util.CurrencyConverter;
 
 import java.util.Scanner;
 
+// Exercicio de fixação aula 72 Professor Nelio Alves
 public class Main {
     public static void main(String[] args) {
 
