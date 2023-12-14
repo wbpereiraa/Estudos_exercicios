@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf5c877-6f41-4534-9b35-5031153b9e24" name="Changes" comment="Delete application APIRestfull-CRUD">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controleDeEstoque/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/controleDeEstoque/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
       <workItem from="1698056839010" duration="103000" />
       <workItem from="1698059616126" duration="243000" />
       <workItem from="1698144940260" duration="68000" />
+      <workItem from="1698317202911" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="Delete application APIRestfull-CRUD">
       <option name="closed" value="true" />
