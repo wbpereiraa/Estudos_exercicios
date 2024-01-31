@@ -16,7 +16,7 @@ public class Main {
 
         List<Pessoa> list = new ArrayList<>();
 
-        System.out.print("Entre com o número de pessoas para pagamento de taxas: ");
+        System.out.print("Entre com o número de pessoas para pagamento das taxas: ");
         int n = sc.nextInt();
 
         for (int i = 1; i <= n ; i++) {
