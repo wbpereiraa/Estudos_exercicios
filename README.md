@@ -1,2 +1,2 @@
-# portfolio
-Neste repositório estão meus projetos pessoais e meus exercicios de estudo para análise de Recrutadores.
+# Exercicios e estudos
+Neste repositório estão meus estudos pessoais para análise de Recrutadores.
